@@ -1,5 +1,5 @@
 # CMPSC-473
-My projects for CMPSC 473: Operating Systems at The Pennsylvania State University
+My projects for ```CMPSC 473```: Operating Systems at The Pennsylvania State University
 
 Fall 2022
 
